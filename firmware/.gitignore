@@ -1,0 +1,10 @@
+pico-sdk
+tinyusb
+FreeRTOS-Kernel
+*.a
+*.specs
+*.o
+*.elf
+*.map
+*.uf2
+*.f32
